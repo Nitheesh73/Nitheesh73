@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nitheesh73
-- 👀 I’m interested in ,net
+- 👀 I’m interested in .net
 - 🌱 I’m currently learning into the wild
 - 💞️ I’m looking to collaborate on Netflix
 - 📫 How to reach me nithishpamulapati@gmail.com
