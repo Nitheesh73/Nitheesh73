@@ -4,9 +4,6 @@
 
 ![Skills](https://skillicons.dev/icons?i=python,postgresql,powerbi,kafka,git,linux,bash)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Nitheesh73&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitheesh73&layout=compact&theme=tokyonight&hide_border=true&hide_title=true)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitheesh73&theme=tokyonight&hide_border=true)
 
 ![Random Dev Joke](https://readme-jokes.vercel.app/api)
